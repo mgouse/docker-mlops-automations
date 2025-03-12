@@ -1,2 +1,2 @@
 # mlops-automations-demo
-MOhamad Gouse
+Mohamad Gouse
